@@ -1,2 +1,2 @@
-# EGBS
+# EGBuilderAssets
 artstation
